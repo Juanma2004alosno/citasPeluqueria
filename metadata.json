@@ -1,0 +1,5 @@
+{
+  "name": "LuxeCuts - Gestión de Peluquería",
+  "description": "Sistema de gestión de citas para peluquería con panel de cliente, panel de administración y asistente de estilo con IA.",
+  "requestFramePermissions": []
+}
